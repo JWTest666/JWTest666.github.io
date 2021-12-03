@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://JWTest666.github.io"
 languageCode = "zh-tw"
-title = "JW Test 20211116"
+title = "JW Blog 20211202"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
